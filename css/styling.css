@@ -1,0 +1,14 @@
+.images img {
+   border:0.5px solid black;
+   border-radius: 20px;
+   filter: brightness(90%);
+   height: 200px;
+   width: 150px;
+
+}
+
+.images a {
+    text-decoration: none;
+}
+
+
