@@ -1,21 +1,21 @@
 body {
-	background: #d9a7c7;
+	background: #d9a7c7; 
 	background: -webkit-linear-gradient(to top, #fffcdc, #d9a7c7);
 	background: linear-gradient(to top, #fffcdc, #d9a7c7);
 	background-size: cover;
 	background-repeat: no-repeat;
-    background-attachment: fixed;
+  background-attachment: fixed;
 }
 
 /*--- BEGIN IMAGE CSS ---*/
 .images {
 	/*border: 4px solid red;*/
-	width: 61%;
+	width: 54.4%;
 	margin: 0 auto;
 	margin-top: 10px;
 }
 .images img {
-   border:1px solid black;
+   border:1px black;
    border-radius: 20px;
    filter: brightness(90%);
    height: 200px;
@@ -34,3 +34,4 @@ body {
 	opacity: 0.5;
 }
 /*--- END IMAGE CSS ---*/
+
